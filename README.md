@@ -79,33 +79,28 @@ Items must be picked up before they can be used.
 
 ---
 
-
 ##  Project Structure
-Inthewoods/src/
-│
-├── Game.java # Main game loop and command handling
-├── Player.java # Player logic and inventory
-├── Animal.java # Enemy class
-├── Creature.java # Base class for Player and Animal
-├── Location.java # World locations and connections
-├── Item.java # Weapons and items
-├── Direction.java # Enum for movement directions
-└── README.md
+Game.java → Main game loop and command handling
+Player.java → Player logic and inventory
+Creature.java → Abstract base class for living entities
+Animal.java → Enemy creatures
+Location.java → Game world locations
+Item.java → Weapons and items
+Direction.java → Movement directions (enum)
+
+
 
 ## How to Run the Game
 
 ### Requirements
-- Java JDK 8 or higher
-- Terminal / Command Prompt
+- Java 17+ (or Java 11+)
+- IntelliJ IDEA or any Java-compatible IDE
 
 ### Steps
-```bash
-javac *.java
-java Game
-
-
-
-
-
-## 🧱 Project Structure
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Epiti/Java-text-Adventure-Game.git
+2. Open the project in IntelliJ IDEA
+3. Run the Game class
+4. Follow the on-screen instructions and type commands in the console.
 
