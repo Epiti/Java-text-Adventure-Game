@@ -5,7 +5,7 @@ The player wakes up alone in a dangerous forest and must navigate through differ
 
 This project was created as a learning exercise to practice:
 - Object-Oriented Programming (OOP)
-- Inheritance and abstraction
+- Inheritance, Encapsulation and abstraction
 - Game loops and user input handling
 - Basic combat mechanics
 - Java collections (List, Map)
@@ -80,13 +80,13 @@ Items must be picked up before they can be used.
 ---
 
 ##  Project Structure
-Game.java → Main game loop and command handling
-Player.java → Player logic and inventory
-Creature.java → Abstract base class for living entities
-Animal.java → Enemy creatures
-Location.java → Game world locations
-Item.java → Weapons and items
-Direction.java → Movement directions (enum)
+- Game.java → Main game loop and command handling
+- Player.java → Player logic and inventory
+- Creature.java → Abstract base class for living entities
+- Animal.java → Enemy creatures
+- Location.java → Game world locations
+- Item.java → Weapons and items
+- Direction.java → Movement directions (enum)
 
 
 
@@ -104,13 +104,5 @@ Direction.java → Movement directions (enum)
 3. Run the Game class
 4. Follow the on-screen instructions and type commands in the console.
 
-## Learning Objectives
 
-### This project was built to practice:
-- Object-Oriented Programming (OOP)
-- Java classes and inheritance
-- Abstraction
-- Encapsulation
-- Game loops and user input handling
-- Basic combat logic
 
