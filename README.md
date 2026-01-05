@@ -104,3 +104,13 @@ Direction.java → Movement directions (enum)
 3. Run the Game class
 4. Follow the on-screen instructions and type commands in the console.
 
+## Learning Objectives
+
+### This project was built to practice:
+- Object-Oriented Programming (OOP)
+- Java classes and inheritance
+- Abstraction
+- Encapsulation
+- Game loops and user input handling
+- Basic combat logic
+
