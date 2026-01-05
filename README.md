@@ -104,8 +104,8 @@ Items must be picked up before they can be used.
 3. Run the Game class
 4. Follow the on-screen instructions and type commands in the console.
 
-###Author
-## Joseph E. Mompunza
+## Author
+### Joseph E. Mompunza
 
 
 
