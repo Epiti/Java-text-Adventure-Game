@@ -1,4 +1,4 @@
-#  Lost in the Woods — Java Text Adventure Game:
+#  Lost in the Woods — Java Text Adventure Game
 
 **Lost in the Woods** is a simple console-based text adventure game written in **Java**.  
 The player wakes up alone in a dangerous forest and must navigate through different locations, collect weapons, fight wild animals, and reach the **Town** to survive.
